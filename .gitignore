@@ -1,0 +1,7 @@
+.idea
+.ipynb_checkpoints
+Supprimerait .idea/markdown-navigator/
+Supprimerait .idea/vcs.xml
+Supprimerait .idea/workspace.xml
+Supprimerait Web_interface/__pycache__/
+Supprimerait Web_interface/parser/__pycache__/

@@ -1,0 +1,5 @@
+class PlayerStatsParser(parser):
+
+    def process_code(self, code_source):
+        self.feed(code_source)
+        return self.playerStats
